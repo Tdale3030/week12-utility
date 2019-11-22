@@ -30,4 +30,9 @@ def ScoreFinder(list1,list2,str):
         else:
             print('OUTPUT Player not found')
 
+def Union(list1,list2):
+    a=list1+list2
+    return a
+
+
 
